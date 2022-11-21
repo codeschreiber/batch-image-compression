@@ -1,2 +1,3 @@
-# batch-image-compression
-Bash - batch image resize and compression
+# Linux - Bash - Batch image resize and compression
+
+resize image's and compress them on the rcursivly
